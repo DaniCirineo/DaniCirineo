@@ -14,6 +14,7 @@
   <img align="center" alt="dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="dani-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/872629103310798871/971705986580643880/download20220504102809.png">
 </div>
   
   ##
